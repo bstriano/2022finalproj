@@ -1,5 +1,5 @@
-# 2022finalproj
-theme:Cayman
+# 2022FinalProj
+
 BST 260 Final Project Repository - Parking Ticket
 
 
