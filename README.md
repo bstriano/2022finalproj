@@ -52,5 +52,7 @@ This project explored theh commonly held claim that municipalities dispense more
 **References**
 
 1) Data source: https://www.opendataphilly.org/dataset/parking-violations
+
 2) Additional sources: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-12-03
+
 3) Lumley T, Diehr P, Emerson S, Chen L. The importance of the normality assumption in large public health data sets. Annu Rev Public Health. 2002;23:151-69. doi: 10.1146/annurev.publhealth.23.100901.140546. Epub 2001 Oct 25. PMID: 11910059.
