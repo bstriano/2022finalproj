@@ -1,0 +1,7 @@
+name: "BStriano Final Project"
+navbar:
+ title: "Parking Ticket Analysis"
+ left:
+  - text: "Home"
+
+theme: "Slate"
