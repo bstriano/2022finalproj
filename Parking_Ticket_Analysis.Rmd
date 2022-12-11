@@ -2,9 +2,9 @@
 title: "FinalProj_BStriano"
 author: "Brendan M. Striano"
 output:
-  html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
+  html_document: default
 ---
 
 Before we dive into the analytical question of interest, let's bring in the packages that we will use later on in this code.
@@ -25,6 +25,10 @@ library(gridExtra)
 library(data.table)
 library(dplyr)
 ```
+
+
+**Project Website**
+[Parking Ticket Analysis](https://bstriano.github.io/2022finalproj/)
 
 **Introduction**:
 
