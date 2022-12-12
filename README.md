@@ -51,8 +51,8 @@ This project explored theh commonly held claim that municipalities dispense more
 
 **References**
 
-1) Data source: https://www.opendataphilly.org/dataset/parking-violations
+1) Data source: [Open Data Philly](https://www.opendataphilly.org/dataset/parking-violations)
 
-2) Additional sources: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-12-03
+2) Additional sources: [R for Data Science] (https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-12-03)
 
-3) Lumley T, Diehr P, Emerson S, Chen L. The importance of the normality assumption in large public health data sets. Annu Rev Public Health. 2002;23:151-69. doi: 10.1146/annurev.publhealth.23.100901.140546. Epub 2001 Oct 25. PMID: 11910059.
+3) Lumley T, Diehr P, Emerson S, Chen L. The importance of the normality assumption in large public health data sets. Annu Rev Public Health. 2002;23:151-69. doi: 10.1146/annurev.publhealth.23.100901.140546. Epub 2001 Oct 25. PMID: 11910059. [view PDF](https://d1wqtxts1xzle7.cloudfront.net/42183834/ARPHnonnormality-libre.pdf?1454733771=&response-content-disposition=inline%3B+filename%3DT_HE_I_MPORTANCE_OF_THE_N_ORMALITY_A_SSU.pdf&Expires=1670860838&Signature=ZkEFaWttOeflpwCCYq7yiyMzZBNzz-lco6HWBEn~l1x7Ib2lsRcOdDVzgVD7pOWFzYTkRKTi5gLvAVIUQlaIZuGcjbBZ4d8gy44LH~jsw6SFawJa4ItOm~eS8DvIAlNcq6e1xJz0zubgLRTwVP30iJ3vA5irHHGCegVajSd3aTUsRrAkJ1gl4gyW8J7gINzSeh~LfZ0N0rxRSFRAzF-Nd-D0oDmo8gqoBRdNNwRilaDRKr6mKNCTgxdnnIPbDgSSBI2Vz12h9zNyfDtRiwHgK4En87eoflgdCIArxllUpqRs0JeNLK1eKwpW~xhWdSI4tejBOExe4mf7dL6lu4sYoA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
